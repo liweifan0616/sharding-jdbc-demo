@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * @author ChengJianSheng
+ * @author liweifan
  * @date 2020-06-18
  */
 @Data
